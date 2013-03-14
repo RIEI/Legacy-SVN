@@ -1,4 +1,5 @@
-Vistumbler
+Legacy-SVN
 ==========
 
- A wireless network scanner written in AutoIT for Vista, Windows 7, and Windows 8.
+ This is a repo of all the legacy code for Vistumbler, WiFiDB, and Mysticache.
+ No new code should be commited to this repo, its just for historical/archival purposes.
